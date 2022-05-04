@@ -1,0 +1,31 @@
+
+    .card-text{ font-size: small;}
+    .txt1{ font-size: small;}
+    .txt1{ font-size: medium;}
+    .txt1.mb-3{ font-size: small;}
+    .collapse.navbar-collapse.justify-content-end.mb-2{
+        padding-right: 5%
+    }
+
+
+    
+
+
+
+    .contimg{
+        with: 100%;
+        position: relative;
+        display: flex;
+        align-items: center;
+
+        img {
+            with: 100%;}
+     }
+
+     .conttxt {
+        text-align: right;
+        position: absolute;
+        padding-right: 5%;
+        padding-left: 55%;
+     }
+
